@@ -1,0 +1,1 @@
+ printf("\n reverse element :%c ",str[j]);

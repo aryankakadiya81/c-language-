@@ -1,0 +1,7 @@
+email - jadakrupal@gmail.com	
+name - Paul s. Smith
+pass - =Paul12344321
+ssn - 444-36-1234
+mo - 580-237-7716
+DOB - 24 april, 1997
+new mail - psmith85@gmail.com
